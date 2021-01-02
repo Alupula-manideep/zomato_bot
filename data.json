@@ -1,0 +1,38 @@
+{
+    "type":{
+        "prompt":"What type of food do you want to eat?",
+        "ans":{
+            "veg":{
+                "follow_up":"veg"
+            },
+            "nonveg":{
+                "follow_up":"nonveg"
+            },
+            "sweet":{
+                "follow_up":"sweet"
+            },
+            "chocolate":{
+                "follow_up":"chocolate"
+            },
+            "juice":{
+                "follow_up":"juice"
+            }
+        }
+    },
+    "veg":{
+        "prompt":"veg memu.. "
+
+    },
+    "nonveg":{
+        "prompt":"nonveg memu.."
+    },
+    "sweet":{
+    "prompt":"sweet.."
+    },
+    "chocolate":{
+        "prompt":"chocolate.."
+    },
+    "juice":{
+        "prompt":"juice.."
+    }
+}
